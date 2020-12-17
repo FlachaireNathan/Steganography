@@ -15,3 +15,11 @@ If not mode specified, will default to reading mode
 * -f : read text in file, need to give file path
 * -t : read text given in argument
 If not mode specified, will ask text in input
+
+### Others files
+
+*text.txt* file is a test file to test reading text from a file
+
+*img* folder contains images used for testing the scripts
+
+*output.png* is the output of the writing mode
