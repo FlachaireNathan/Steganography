@@ -1,7 +1,8 @@
 # Programm to encrypt and read text in image
 
+College Project for learning basics of Steganography
 
-Gituhb link : https://github.com/FlachaireNathan/Steganography
+Gitub link : https://github.com/FlachaireNathan/Steganography
 
 ## Write text
 
